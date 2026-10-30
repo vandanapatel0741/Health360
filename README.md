@@ -17,4 +17,4 @@ Tableau project to identify high-risk patients for Heart disease, Diabetes and S
 
 ## Links
 - Tableau Public: https://public.tableau.com/app/profile/vandana.patel3632/viz/Health360_17933732532810/Story5
-- Demo video: <add link>
+- Demo video: < https://vandanapatel0741.github.io/Health360/>
